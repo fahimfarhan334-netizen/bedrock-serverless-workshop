@@ -2,7 +2,14 @@
   <div>
     <div id="app">
       <nav v-if="isLoggedIn()" class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <router-link to="/" class="navbar-brand">Serverless Chatbot using Amazon Bedrock</router-link>
+<router-link to="/" class="navbar-brand d-flex align-items-center">
+  <img
+    src="@/assets/utsystem_logo.png"
+    alt="UTSystem logo"
+    style="height: 34px; margin-right: 12px;"
+  />
+  <span>UT System OIRA Serverless Chatbot</span>
+</router-link>
         <button
           class="navbar-toggler"
           type="button"
