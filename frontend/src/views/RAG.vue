@@ -22,7 +22,6 @@
                   <select id="model" name="model">
                     <option value="anthropic.claude-3-haiku-20240307-v1:0" selected>Claude 3 Haiku</option>
                       <option value="anthropic.claude-3-5-sonnet-20240620-v1:0">Claude 3.5 Sonnet</option>
-                      <option value="anthropic.claude-3-opus-20240229-v1:0">Claude 3 Opus</option>
                       <option value="mistral.mistral-7b-instruct-v0:2">Mistral 7B</option>
                       <option value="meta.llama3-1-8b-instruct-v1:0">Llama 3.1 Instruct 8B</option>
                   </select>
