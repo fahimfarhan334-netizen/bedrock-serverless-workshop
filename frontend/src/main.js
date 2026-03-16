@@ -7,9 +7,9 @@ import VueAxios from 'vue-axios'
 Vue.config.productionTip = false
 
 //These values are replaces during amplify setup
-axios.defaults.baseURL = "<ApiGatewayUrl>"
-Vue.prototype.$UserPoolId = '<CognitoUserPoolId>'
-Vue.prototype.$ClientId = '<UserPoolClientId>'
+axios.defaults.baseURL = "https://kwysnusnaf.execute-api.us-west-2.amazonaws.com/prod"
+Vue.prototype.$UserPoolId = 'us-west-2_vT5qJWEp0'
+Vue.prototype.$ClientId = '3k705j40qe8fme58o0khcn63oa'
 
 Vue.use(VueAxios, axios)
 

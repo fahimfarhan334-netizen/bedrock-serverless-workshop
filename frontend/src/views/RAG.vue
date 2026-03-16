@@ -88,13 +88,15 @@
           <img class="card-img-top" src="" alt="" />
 
           <div class="card-body">
-            <label style="font-weight:lighter;color:grey">What is federal funds rate as of April 2024?</label>
+            <label style="font-weight:lighter;color:grey">Is there any brief on UT institutions 2025 Carnegie rankings? if so what is the title?</label>
             <br />
-            <label style="font-weight:lighter;color:grey">What is federal funds rate as of September 2025?</label>
+            <label style="font-weight:lighter;color:grey">What is the 2025 Carnegie classification of MD Anderson Cancer Center?</label>
             <br />
-            <label style="font-weight:lighter;color:grey" >What are the demographic trends in dental space?</label>
+            <label style="font-weight:lighter;color:grey">Is there any brief by UT OIRA team on Hispanic undergraduate students and What is the title?</label>
             <br />
-            <label style="font-weight:lighter; color:grey" >What are Amazon sustainability goals by year 2040?</label>
+            <label style="font-weight:lighter; color:grey">Are Hispanic female undergrads more likely to graduate than Hispanic males in UT institution?</label>
+            <br />
+            <label style="font-weight:lighter; color:grey">How does completing a baccalaureate degree influence return on investment in terms of median wages?</label>
           </div>
         </div>
       </div>
